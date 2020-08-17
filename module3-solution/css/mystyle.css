@@ -1,0 +1,41 @@
+body{
+	background-color: grey;
+}
+#header-nav{
+	background-color: yellow;
+}
+.navbar-brand{
+  	font-family: 'Lora', serif;
+  	text-transform: uppercase;
+  	font-size: 2.2em;
+ 	font-weight: bold;
+ 	margin-top: 0;
+  	margin-bottom: 20px;
+  	line-height: 1.5;
+}
+.navbar-brand a:hover, .navbar-brand a:focus {
+  	text-decoration: none;
+}
+#nav-list a {
+  	color: black;
+  	text-align: center;
+}
+#nav-list a:hover {
+  	background: red;
+}
+#nav-list a span {
+  	font-size: 1.2em;
+}
+#home-tiles{
+	font-size: 16px;
+  	color: #fff;
+  	background-color: red;
+ 	font-family: 'Oxygen', sans-serif;
+ 	margin: 15px 15px 15px 15px;
+}
+#home-tiles h2{
+	text-align: center;
+}
+#home-tiles p{
+	margin: 30px;
+}
